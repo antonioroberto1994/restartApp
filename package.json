@@ -1,0 +1,14 @@
+{
+  "name": "restart",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "restart",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
