@@ -1,7 +1,7 @@
 {
-  "name": "restart",
+  "name": "restartApp",
   "version": "0.0.1",
-  "description": "",
+  "description": "Plugin for Ionic which can restart your application.",
   "cordova": {
     "id": "restart",
     "platforms": []
@@ -9,6 +9,14 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "Antonio Roberto",
+  "license": "MIT License",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioroberto1994/restartApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antonioroberto1994/restartApp/issues"
+  },
+  "homepage": "https://github.com/antonioroberto1994/restartApp#readme"
 }
