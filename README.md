@@ -17,5 +17,11 @@ The plugin can be installed from git repository as follows:
 ```bash
 cordova plugin add https://github.com/antonioroberto1994/restartApp.git
 ```
-```bash
 
+## Author
+
+**Antonio Roberto** - [Linkedin](https://www.linkedin.com/in/antonio-roberto-1b288b120/)
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](https://github.com/antonioroberto1994/restartApp/blob/master/LICENSE.md)
