@@ -24,4 +24,4 @@ cordova plugin add https://github.com/antonioroberto1994/restartApp.git
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](https://github.com/antonioroberto1994/restartApp/blob/master/LICENSE.md)
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](https://github.com/antonioroberto1994/restartApp/blob/master/LICENSE)
